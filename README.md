@@ -1,5 +1,7 @@
 2D Inner solar system simulation using pygame library 
 
+Download the planet_img.png files in the same location as your code 
+
 <b><u>This sim does:</b></u>
  - Uses mass, acceleration and forces and mathematical constants for the Astronomical Unit (AU), the gravitational constant ect.
  - Size of planets and orbital distances have been accurately scaled
